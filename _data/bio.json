@@ -17,8 +17,8 @@
   },
   "interests": [
     { "name": "Software Engineering" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
+    { "name": "AI" },
+    { "name": "Game Developing" },
     { "name": "Robotics" },
     { "name": "3D Graphics" }
   ],
@@ -45,27 +45,15 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "City Auto Sales",
+      "position": "Sales Consultant",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2023-05-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Assist customers in finding vehicles, maintain online listings, and support dealership operations.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Helped increase used car sales by optimizing vehicle descriptions and features",
+        "Supported online marketing efforts for dealership inventory"
       ]
     }
   ],
