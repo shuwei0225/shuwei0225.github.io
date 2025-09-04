@@ -25,6 +25,6 @@ The WODs brought a completely different challenge. At first, I found them stress
 
 This way of learning is not always enjoyable in the moment, but it pays off afterward. Instead of passively reading or watching tutorials, the WODs force me to practice in a way that sticks. I know myself—I need that kind of pressure to really grow. Without it, I’d probably coast and not push myself. It’s uncomfortable, but it’s the kind of uncomfortable that makes you better.
 
-## Looking Ahead
+## Future
 
 After this module, I can see how both TypeScript and athletic software engineering fit together. TypeScript adds structure without killing the freedom of JavaScript, and the WODs build confidence through repetition and practice. Together, they make me see software engineering less as just solving problems and more as a craft—something that requires tools, discipline, and consistent effort. It’s not always easy, but that’s what makes it worth doing.
