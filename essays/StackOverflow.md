@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-In the context of engineering
+## In the context of engineering
 
 <img width="200px" class="rounded float-start pe-4" src="../img/stackoverflow-1.png">
 
@@ -21,7 +21,7 @@ One good example is [“How to merge two dictionaries in a single expression?”
 
 This is a smart question because it’s clear, specific, and shows the person already tried something. They mentioned `update()`, explained why it didn’t work, and asked for a better way. Because of that, the community gave solid answers, like using dictionary unpacking (`{**dict1, **dict2}` in Python 3.5+). The answers were direct, helpful, and highly upvoted. This is exactly what Raymond means: smart questions get smart answers.  
 
-In the context of learning
+## In the context of learning
 
 Now compare that to [“Why my code is not working???”](https://stackoverflow.com/questions/46679060/why-my-code-is-not-working). The person wrote:  
 
@@ -31,6 +31,6 @@ That’s it. No clear title, no explanation of what’s wrong, no error message,
 
 These two examples make it clear why asking questions the smart way matters. A good question respects the community’s time and gets useful answers. A bad question wastes everyone’s time and usually ends without a solution. For me, the lesson is simple: if I want good help, I need to put effort into how I ask. That means doing research first, making the problem clear, and showing what I already tried.  
 
-Conclusion
+## Conclusion
 
 Smart engineers ask smart questions. The difference between a helpful answer and no answer at all often comes down to how the question is framed. Practicing the “smart way” of asking doesn’t just make me better at getting help—it also makes me a better communicator and a more thoughtful engineer.  
