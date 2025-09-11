@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-## In the context of engineering
+## Why Smart Questions Matter in Engineering
 
 <img width="200px" class="rounded float-start pe-4" src="../img/stackoverflow-1.png">
 
@@ -21,7 +21,7 @@ One good example is [“How to merge two dictionaries in a single expression?”
 
 This is a smart question because it’s clear, specific, and shows the person already tried something. They mentioned `update()`, explained why it didn’t work, and asked for a better way. Because of that, the community gave solid answers, like using dictionary unpacking (`{**dict1, **dict2}` in Python 3.5+). The answers were direct, helpful, and highly upvoted. This is exactly what Raymond means: smart questions get smart answers.  
 
-## In the context of learning
+## What I Learned from Comparing Questions
 
 Now compare that to [“Why my code is not working???”](https://stackoverflow.com/questions/46679060/why-my-code-is-not-working). The person wrote:  
 
