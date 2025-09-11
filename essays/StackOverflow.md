@@ -11,6 +11,8 @@ labels:
 
 In the context of engineering
 
+<img width="200px" class="rounded float-start pe-4" src="../img/stackoverflow-1.png">
+
 Communication is one of the most important skills for software engineers, and asking questions the “smart way” is a big part of that. In his essay *[How to Ask Questions the Smart Way](http://www.catb.org/esr/faqs/smart-questions.html)*, Eric Raymond explains how developers can get better answers by asking better questions. StackOverflow is a great place to see this in action, because the community rewards good questions and punishes bad ones.  
 
 One good example is [“How to merge two dictionaries in a single expression?”](https://stackoverflow.com/questions/38987/how-do-i-merge-two-dictionaries-in-a-single-expression-taking-union-of-dictionar). The developer wrote:  
