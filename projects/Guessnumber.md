@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/
+image: img/guessnumber.png
 title: "Guess the Number"
 date: 2025-09-18
 published: true
