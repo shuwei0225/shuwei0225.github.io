@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/
+image: img/tictactoe.png
 title: "TicTacToe"
 date: 2025-09-17
 published: true
