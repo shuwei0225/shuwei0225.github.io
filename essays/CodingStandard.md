@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Coding Standards: More Than Just Style Rules"
+title: "Coding Standards"
 date: 2025-09-24
 published: true
 labels:
@@ -36,5 +36,3 @@ The best part is how coding standards help me *learn* a language. When you’re 
 If I had to pick only one technique to improve code quality, I’d choose coding standards. They help me avoid mistakes, they make teamwork easier, and they even speed up the learning process. The short-term pain is worth it. At the end of the day, coding standards aren’t about style fights over braces—they’re about writing code that’s easier for everyone to understand, including yourself.
 
 ---
-
-*Note on AI assistance: I used ChatGPT to help polish my wording and structure, but the opinions and perspective here are mine.*
