@@ -12,7 +12,7 @@ labels:
 
 ## Building Websites the Smart Way
 
-<img width="250px" class="rounded float-start pe-4" src="../img/bootstrap-page.png">
+<img width="250px" class="rounded float-start pe-4" src="../img/bootstrap-icons.png">
 
 When I first started creating web pages, I built everything from scratch with HTML and CSS. It was fun at first, but also painful — every button, every layout, every alignment took forever. Then I discovered **Bootstrap 5**, and it completely changed the way I think about web design.  
 
