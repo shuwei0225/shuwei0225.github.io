@@ -13,14 +13,14 @@ labels:
 ## Overview
 
 ### The problem
-UH Mānoa students, staff, and neighbors are surrounded by great food—but discovering the **right** spot at the **right** time is hard. Instagram is noisy, Google Maps is generic, and group chats get outdated. We need a way to filter by **budget**, **dietary needs**, **distance/wait time**, **parking/bus access**, and even **campus schedule** (class blocks, club meetings, labs).
+UH Mānoa students, staff, and neighbors are surrounded by great food—but discovering the right spot at the right time is hard. Instagram is noisy, Google Maps is generic, and group chats get outdated. We need a way to filter by budget, dietary needs, distance/wait time, parking/bus access, and even campus schedule (class blocks, club meetings, labs).
 
 ### The solution
-**Mānoa Hunting** is a Next.js + React + Bootstrap 5 web app that builds a **personal taste profile** for each logged-in user and recommends nearby restaurants and food trucks around UH Mānoa (and greater Oʻahu) with **live crowd-sourced “vibes”** (busy/quiet), **today’s specials**, **student deals**, and **time-to-eat** suggestions between classes.
+Mānoa Hunting is a Next.js + React + Bootstrap 5 web app that builds a personal taste profile for each logged-in user and recommends nearby restaurants and food trucks around UH Mānoa (and greater Oʻahu) with live crowd-sourced “vibes” (busy/quiet), today’s specials, student deals, and time-to-eat suggestions between classes.
 
-Our “special sauce”: after registration, users answer a short taste quiz (price comfort zone, diet, spice tolerance, allergens, cuisines, caffeine needs, time windows). The app learns from their bookmarks, ratings, and “nope” list to deliver **hyper-personalized** picks and smart notifications (e.g., “You’ve got 55 minutes before ICS 314 — two top picks within a 6-minute walk, average wait 8 minutes.”).
+Our “special sauce”: after registration, users answer a short taste quiz (price comfort zone, diet, spice tolerance, allergens, cuisines, caffeine needs, time windows). The app learns from their bookmarks, ratings, and “nope” list to deliver hyper-personalized picks and smart notifications (e.g., “You’ve got 55 minutes before ICS 314 — two top picks within a 6-minute walk, average wait 8 minutes.”).
 
-**Tech & hosting**: Next.js (App Router), React, Bootstrap 5 UI, MongoDB (profiles, places, reviews), NextAuth (email or UH Google SSO), Map/Geolocation APIs for distance & routing, CI/CD from **GitHub** (public repo; docs via GitHub Pages; deployment from GitHub to Vercel).
+Tech & hosting: Next.js (App Router), React, Bootstrap 5 UI, MongoDB (profiles, places, reviews), NextAuth (email or UH Google SSO), Map/Geolocation APIs for distance & routing, CI/CD from GitHub (public repo; docs via GitHub Pages; deployment from GitHub to Vercel).
 
 ---
 
