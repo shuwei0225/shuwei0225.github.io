@@ -118,7 +118,3 @@ I underestimated debugging almost every time. In future projects, I would automa
 - Clarifying requirements  
 - Writing drafts of documentation  
 - Learning unfamiliar concepts  
-
-### Sample Prompts
-
-**Coding prompts:**
