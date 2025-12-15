@@ -10,6 +10,7 @@ labels:
   - Software Engineering
   - Reflection
 ---
+<img width="200px" class="rounded float-start pe-4" src="../img/ai.jpeg">
 
 # I. Introduction
 
